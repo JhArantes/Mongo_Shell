@@ -1,0 +1,77 @@
+[
+    {
+        "_id": "680fd7e16f1b5d03cf8a027b",
+        "Série": "Hunters",
+        "Ano de lançamento": 2020,
+        "Temporadas disponíveis": 1,
+        "Linguagem": "Inglês",
+        "Genero": [
+            "Drama",
+            "Ação",
+            "Suspense"
+        ],
+        "IMDb Avaliação": 7.2,
+        "Classificação": "18+"
+    },
+    {
+        "_id": "680fd7e16f1b5d03cf8a027e",
+        "Série": "The Forgotten Army- Azaadi ke Liye",
+        "Ano de lançamento": 2020,
+        "Temporadas disponíveis": 1,
+        "Linguagem": "Hindi",
+        "Genero": [
+            "Drama",
+            "Ação"
+        ],
+        "IMDb Avaliação": 8,
+        "Classificação": "18+"
+    },
+    {
+        "_id": "680fd7e16f1b5d03cf8a0280",
+        "Série": "Tales from the Loop",
+        "Ano de lançamento": 2020,
+        "Temporadas disponíveis": 1,
+        "Linguagem": "Inglês",
+        "Genero": [
+            "Ficção científica"
+        ],
+        "IMDb Avaliação": 7.5,
+        "Classificação": "18+"
+    },
+    {
+        "_id": "680fd7e16f1b5d03cf8a0281",
+        "Série": "The Test: A New Era for Australia's Team",
+        "Ano de lançamento": 2020,
+        "Temporadas disponíveis": 1,
+        "Linguagem": "Inglês",
+        "Genero": [
+            "Documentário"
+        ],
+        "IMDb Avaliação": 9,
+        "Classificação": "16+"
+    },
+    {
+        "_id": "680fd7e16f1b5d03cf8a028d",
+        "Série": "Afsos",
+        "Ano de lançamento": 2020,
+        "Temporadas disponíveis": 1,
+        "Linguagem": "Hindi",
+        "Genero": [
+            "Drama",
+            "Comédia"
+        ],
+        "Classificação": "16+"
+    },
+    {
+        "_id": "680fd7e16f1b5d03cf8a02b6",
+        "Série": "Star Trek: Picard",
+        "Ano de lançamento": 2020,
+        "Temporadas disponíveis": 1,
+        "Linguagem": "Inglês",
+        "Genero": [
+            "Ficção científica"
+        ],
+        "IMDb Avaliação": 7.6,
+        "Classificação": "18+"
+    }
+]
