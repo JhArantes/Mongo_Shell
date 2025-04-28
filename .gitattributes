@@ -1,0 +1,5 @@
+# Tratamento de arquivos MongoDB Shell como JavaScript
+*.mongosh linguist-language=JavaScript
+
+# Caso você tenha scripts shell, também pode configurar para Shell
+*.sh linguist-language=Shell

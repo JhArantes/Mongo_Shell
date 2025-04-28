@@ -1,4 +1,4 @@
-# Alura Series - MongoDB Management
+# Python & JS - MongoDB Management
 
 ## 🚀 Descrição do Projeto
 
